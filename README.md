@@ -1,5 +1,5 @@
 # Wordpress-demo
-Demo landing project
+Demo landing project ( figma + avocode);
 
 В проекте использовались:
 - HTML ( метаданные + семантика);
